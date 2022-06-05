@@ -1,0 +1,35 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(232, 226, 218);
+  height: auto;
+  min-height: 100vh;
+}
+
+.FrontPage {
+  margin-top: 25vh;
+  display: flex;
+  flex-direction: column;
+  width: 80vw;
+}
+
+.Nav_Bar {
+  display: flex;
+  width: 99vw;
+  background-color: rgb(230, 165, 68);
+}
+
+.brand {
+  margin-left: 20px;
+}
+
+.search_bar {
+  margin-left: 65vw;
+  font-size: 14px;
+}
+
+.forum_name {
+  margin-left: 32vw;
+  margin-bottom: 20vh;
+}
