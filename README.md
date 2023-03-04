@@ -12,7 +12,3 @@ install:
 
 to run:  
 `npm start`
-
-
-## Demo
-Try the demo on heroku: [demo](https://simple-forum-02.herokuapp.com/)
